@@ -1,0 +1,7 @@
+E:\MASTER-UNITY\UNIDAD-2\Capitulo-3\Ejercicio-practico-profesor-III\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\MASTER-UNITY\UNIDAD-2\Capitulo-3\Ejercicio-practico-profesor-III\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\MASTER-UNITY\UNIDAD-2\Capitulo-3\Ejercicio-practico-profesor-III\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\MASTER-UNITY\UNIDAD-2\Capitulo-3\Ejercicio-practico-profesor-III\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\MASTER-UNITY\UNIDAD-2\Capitulo-3\Ejercicio-practico-profesor-III\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\MASTER-UNITY\UNIDAD-2\Capitulo-3\Ejercicio-practico-profesor-III\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\MASTER-UNITY\UNIDAD-2\Capitulo-3\Ejercicio-practico-profesor-III\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
